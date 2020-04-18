@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nobor\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nobor\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WaveFunctionCollapse.1862619255.00" t="ExcludeRecursive" />
+    <e p="C:\Users\nobor\Documents\development\repositories\draft\WaveFunctionCollapse" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="WFC" t="Include">
+          <e p="Script" t="Include">
+            <e p="WFCNet" t="Include">
+              <e p="Cell.cs" t="Include" />
+              <e p="OverlapSession.cs" t="Include" />
+              <e p="Session.cs" t="Include" />
+              <e p="Tile.cs" t="Include" />
+            </e>
+            <e p="WFCOverlap.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="WaveFunctionCollapse.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
